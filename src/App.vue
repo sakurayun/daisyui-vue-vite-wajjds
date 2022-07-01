@@ -16,6 +16,7 @@
       </div>
     </div>
     <!--状态栏-->
+
     <StatusBar />
     <FootBar />
   </div>
